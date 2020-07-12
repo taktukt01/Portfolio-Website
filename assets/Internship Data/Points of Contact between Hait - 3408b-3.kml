@@ -1,0 +1,423 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Points of Contact between Haitian and the Dominican Republic DSI</name>
+		<Style id='Style2-point-1'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-point-1-hover'>
+			<IconStyle>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href>
+				</Icon>
+			</IconStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-point-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-point-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-point-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-line-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-line-2-hover'>
+			<LineStyle>
+				<color>800000ff</color>
+				<width>2</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-line-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-line-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-line-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>7f0000ff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Restauración is the third largest city in the province of Dajabon, Dominican Republic. It is located in the northwest portion of the island, in the Cibao region</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Restauracion, Dominican Republic</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Restauración is the third largest city in the province of Dajabon, Dominican Republic. It is located in the northwest portion of the island, in the Cibao region</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://mw2.google.com/mw-panoramio/photos/medium/8501216.jpg"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://mw2.google.com/mw-panoramio/photos/medium/8501216.jpg</value>
+				</Data>
+			</ExtendedData>
+			<address>Restauracion, Dominican Republic</address>
+		</Placemark>
+		<Placemark>
+			<name>Belladère is a commune in the Lascahobas Arrondissement, inside the Centre department of Haiti. Its border crossing to Comendador is one of the four chief land crossings to the Dominican Republic.</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Belladere, Haiti</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Belladère is a commune in the Lascahobas Arrondissement, inside the Centre department of Haiti. Its border crossing to Comendador is one of the four chief land crossings to the Dominican Republic.</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://alchetron.com/cdn/belladre-754b4ea3-c495-4c74-b509-b58d839ed98-resize-750.jpeg"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://alchetron.com/cdn/belladre-754b4ea3-c495-4c74-b509-b58d839ed98-resize-750.jpeg</value>
+				</Data>
+			</ExtendedData>
+			<address>Belladere, Haiti</address>
+		</Placemark>
+		<Placemark>
+			<name>Ouanaminthe is a town located in the Nord-Est department of Haiti. It lies along the Massacre River, which forms part of the natural border between Haiti and D.R.
+The population stands at roughly 100,000 people.
+Haitians living in Ouanaminthe are allowed to cross the border freely without documents two days per week, mainly for the market on Mondays and Fridays at Dajabón, where they buy and sell goods.</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Ouanaminthe, Haiti</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Ouanaminthe is a town located in the Nord-Est department of Haiti. It lies along the Massacre River, which forms part of the natural border between Haiti and D.R.
+The population stands at roughly 100,000 people.
+Haitians living in Ouanaminthe are allowed to cross the border freely without documents two days per week, mainly for the market on Mondays and Fridays at Dajabón, where they buy and sell goods.</p></font>
+<br>
+<br>
+<b></b><center> <img src="http://www.alekseitrofimov.eu/lj2015/201504-haiti/IMG_4980-HAITIAN-BORDER.JPG"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>http://www.alekseitrofimov.eu/lj2015/201504-haiti/IMG_4980-HAITIAN-BORDER.JPG</value>
+				</Data>
+			</ExtendedData>
+			<address>Ouanaminthe, Haiti</address>
+		</Placemark>
+		<Placemark>
+			<name>Nalga de Maco is a national park in the western part of the Dominican Republic.  Created in 1995, Nalga de Maco National Park has played a crucial role within the environment and relations at the border.  It is located within the province of Elia Piña, one of the provinces bordering Haiti in the middle division line. </name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Nalga de maco</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Nalga de Maco is a national park in the western part of the Dominican Republic.  Created in 1995, Nalga de Maco National Park has played a crucial role within the environment and relations at the border.  It is located within the province of Elia Piña, one of the provinces bordering Haiti in the middle division line. </p></font>
+<br>
+<br>
+<b></b><center> <img src="https://domrepworld.com/wp-content/uploads/2016/11/nalga-de-maco-blick-rio-limpio.jpg"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://domrepworld.com/wp-content/uploads/2016/11/nalga-de-maco-blick-rio-limpio.jpg</value>
+				</Data>
+			</ExtendedData>
+			<address>Nalga de maco</address>
+		</Placemark>
+		<Placemark>
+			<name>Pedro Santana is a city in the province of Elías Piña in the Dominican Republic. It is located on the border of Haiti. It is named after Don Pedro Santana y Familias, 1st Marquis of Las Carreras (June 29, 1801 – June 14, 1864) who was a wealthy cattle rancher, soldier, politician and dictator of the Dominican Republic.
+
+</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Pedro Santana, Dominican Republic</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Pedro Santana is a city in the province of Elías Piña in the Dominican Republic. It is located on the border of Haiti. It is named after Don Pedro Santana y Familias, 1st Marquis of Las Carreras (June 29, 1801 – June 14, 1864) who was a wealthy cattle rancher, soldier, politician and dictator of the Dominican Republic.
+
+</p></font>
+<br>
+<br>
+<b></b><center> <img src="http://www.medmissionaries.org/sitebuildercontent/sitebuilderpictures/a-StFrancisCenter.jpg"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>http://www.medmissionaries.org/sitebuildercontent/sitebuilderpictures/a-StFrancisCenter.jpg</value>
+				</Data>
+			</ExtendedData>
+			<address>Pedro Santana, Dominican Republic</address>
+		</Placemark>
+		<Placemark>
+			<name>Loma de Cabrera is the second largest city in the province of Dajabón, Dominican Republic. It is located in the northwest portion of the country, in the Cibao region. </name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> loma de cabrera</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Loma de Cabrera is the second largest city in the province of Dajabón, Dominican Republic. It is located in the northwest portion of the country, in the Cibao region. </p></font>
+<br>
+<br>
+<b></b><center> <img src="https://s22.postimg.cc/a16rr90z5/Loma_de_cabrera.png"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://s22.postimg.cc/a16rr90z5/Loma_de_cabrera.png</value>
+				</Data>
+			</ExtendedData>
+			<address>loma de cabrera</address>
+		</Placemark>
+		<Placemark>
+			<name>San Francisco de Bánica, or simply Bánica, is a municipality of the Elías Piña province, on the border with Haiti and near the Artibonite river. Bánica was made a municipality of the San Juan province in 1938 and then, in 1942, of the new province of Elías Piña</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Banica, Dominican Republic</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">San Francisco de Bánica, or simply Bánica, is a municipality of the Elías Piña province, on the border with Haiti and near the Artibonite river. Bánica was made a municipality of the San Juan province in 1938 and then, in 1942, of the new province of Elías Piña</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://s22.postimg.cc/8ywl8r7w1/banica.png"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://s22.postimg.cc/8ywl8r7w1/banica.png</value>
+				</Data>
+			</ExtendedData>
+			<address>Banica, Dominican Republic</address>
+		</Placemark>
+		<Placemark>
+			<name>Elías Piña is one of the 32 provinces of the Dominican Republic. It is located in the western part of the country, on the border with Haiti. Its capital city is Comendador.
+As of 2014, the population is 84,632.</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Elias Pina</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Elías Piña is one of the 32 provinces of the Dominican Republic. It is located in the western part of the country, on the border with Haiti. Its capital city is Comendador.
+As of 2014, the population is 84,632.</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://s22.postimg.cc/4d0h09wlt/elias_pina.png"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://s22.postimg.cc/4d0h09wlt/elias_pina.png</value>
+				</Data>
+			</ExtendedData>
+			<address>Elias Pina</address>
+		</Placemark>
+		<Placemark>
+			<name>Anse-à-Pitres, or Anse-à-Pitre is a commune in the Belle-Anse Arrondissement, in the Sud-Est department of Haiti. Its border crossing to Pedernales is one of the four chief land crossings to the Dominican Republic</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Anse a pitre</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Anse-à-Pitres, or Anse-à-Pitre is a commune in the Belle-Anse Arrondissement, in the Sud-Est department of Haiti. Its border crossing to Pedernales is one of the four chief land crossings to the Dominican Republic</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://www.jrsusa.org/Assets/Regions/USA/media/photos/slideshow_003-800.jpg"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://www.jrsusa.org/Assets/Regions/USA/media/photos/slideshow_003-800.jpg</value>
+				</Data>
+			</ExtendedData>
+			<address>Anse a pitre</address>
+		</Placemark>
+		<Placemark>
+			<name>Comendador is the capital of the Elías Piña province of the Dominican Republic. It has a border crossing to the Haitian town Belladère. In 2012, it had a recorded population of 43,894 people.</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Comendador</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Comendador is the capital of the Elías Piña province of the Dominican Republic. It has a border crossing to the Haitian town Belladère. In 2012, it had a recorded population of 43,894 people.</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://s22.postimg.cc/ax396l81t/comendador.png"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://s22.postimg.cc/ax396l81t/comendador.png</value>
+				</Data>
+			</ExtendedData>
+			<address>Comendador</address>
+		</Placemark>
+		<Placemark>
+			<name>Artibonito River has served  as a natural resource for both peoples. This river forms a part of the border between both countries, therefore  it acts as a point of convergence for Dominicans and Haitians.</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Artibonito River</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Artibonito River has served  as a natural resource for both peoples. This river forms a part of the border between both countries, therefore  it acts as a point of convergence for Dominicans and Haitians.</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Artibonite_River_in_Haiti_%282010%29.jpg/1200px-Artibonite_River_in_Haiti_%282010%29.jpg"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Artibonite_River_in_Haiti_%282010%29.jpg/1200px-Artibonite_River_in_Haiti_%282010%29.jpg</value>
+				</Data>
+			</ExtendedData>
+			<address>Artibonito River</address>
+		</Placemark>
+		<Placemark>
+			<name>Dajabón is the capital city of the Dajabón province in the Dominican Republic,located on the border with Haiti. 
+              It is a market town with a population
+of about 40,000 north of the Cordillera Central mountain range.
+Date when border changed:</name>
+			<snippet></snippet>
+			<description><![CDATA[
+<div class="googft-info-window" style="background-color:lightblue">
+<b><center><font size="12"><u>Point of Convergence </u></font></center>
+ </b><center><em> <font size="6"> Dajabon, Dominican Republic</font></em></center><br>
+<br>
+<b>Description:</b><font face="verdana" size="4"> <p style="color:white">Dajabón is the capital city of the Dajabón province in the Dominican Republic,located on the border with Haiti. 
+              It is a market town with a population
+of about 40,000 north of the Cordillera Central mountain range.
+Date when border changed:</p></font>
+<br>
+<br>
+<b></b><center> <img src="https://s22.postimg.cc/8w32b3y9d/dajabon.png"></center><br>
+<br>
+
+</div>
+
+]]></description>
+			<styleUrl>#Style2-point-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Picture'>
+					<value>https://s22.postimg.cc/8w32b3y9d/dajabon.png</value>
+				</Data>
+			</ExtendedData>
+			<address>Dajabon, Dominican Republic</address>
+		</Placemark>
+	</Document>
+</kml>

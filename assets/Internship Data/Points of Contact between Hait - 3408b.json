@@ -1,0 +1,43 @@
+{
+  "licenseType": "Unknown",
+  "dc:description": "This is a project for CUNY Dominican Studies Institute (DSI). Our goal is to find and map out points of convergence between Haiti and the Dominican Republic around Nalga De Maco. ",
+  "exportable": true,
+  "createdBy": "Taktuk, Taktuk",
+  "dc:title": "Points of Contact between Haitian and the Dominican Republic DSI",
+  "dc:modified": "2018-07-05T20:10:15Z",
+  "dc:identifier": "1Cs2Byyfvviac0L9BWbGB7qBP-rhuGJ1nNv5k3S6D",
+  "tableSchema": {"columns": [
+    {
+      "datatype": "string",
+      "name": "col0",
+      "validateData": false,
+      "title": "Description"
+    },
+    {
+      "datatype": "double",
+      "name": "col1",
+      "validateData": false,
+      "title": "Number"
+    },
+    {
+      "datatype": "location",
+      "name": "col2",
+      "validateData": false,
+      "title": "Location"
+    },
+    {
+      "datatype": "date",
+      "name": "col3",
+      "validateData": false,
+      "title": "Date"
+    },
+    {
+      "dc:description": "https://vignette.wikia.nocookie.net/haiti/images/6/6d/Ar1.jpg/revision/latest/scale-to-width-down/2000?cb=20171120133123",
+      "datatype": "string",
+      "formatPattern": "<img src='%s' height='120'/>",
+      "name": "col4",
+      "validateData": true,
+      "title": "Picture"
+    }
+  ]}
+}
