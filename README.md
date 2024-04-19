@@ -2,7 +2,5 @@
 
 
 visit here: https://taktuk.live/
-
-
-
-*Blog section coming soon!
+_Site is down for the time being
+_
